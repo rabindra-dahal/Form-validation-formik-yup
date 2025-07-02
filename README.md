@@ -10,6 +10,10 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npm install
    ```
 
+   ```bash
+   npm install formik yup
+   ```
+
 2. Start the app
 
    ```bash
